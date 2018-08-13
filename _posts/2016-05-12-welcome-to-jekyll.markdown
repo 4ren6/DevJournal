@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "This is first post!"
-date:   2016-05-12 22:01:43 +0530
-categories: jekyll update
-author: "Hemang"
+title:  "このポストからはじまります。"
+date:   2018-08-13 23:06:43 +0900
+categories: Untitle
+author: "4ren6"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+こんにちは、４ren6です。
+これから情報セキュリティブログ始めます。
+ヨロシクお願いします。
 
 Jekyll also offers powerful support for code snippets:
 
