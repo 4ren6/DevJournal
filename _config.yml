@@ -14,7 +14,7 @@ description: "<h3>Hello, world!</h3><h1>DevJournal</h1><h3>Awesome Jekyll Theme 
 
 
 
-baseurl: "" 
+baseurl: "/DevJournal" 
 url: "http://4ren6.github.io" 
 twitter_username: TBD
 github_username:  TBD
