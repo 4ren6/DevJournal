@@ -14,8 +14,8 @@ description: "<h3>Hello, world!</h3><h1>DevJournal</h1><h3>Awesome Jekyll Theme 
 
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://4ren6.github.io" # the base hostname & protocol for your site
+baseurl: "" 
+url: "http://4ren6.github.io" 
 twitter_username: TBD
 github_username:  TBD
 
